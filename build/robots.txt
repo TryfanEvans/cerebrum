@@ -1,0 +1,5 @@
+User-agent: *
+Crawl-delay: 1000
+Disallow: /api
+Disallow: /admin
+Disallow: /submission
